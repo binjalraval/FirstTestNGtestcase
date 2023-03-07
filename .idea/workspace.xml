@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a37a0-9d9c-4959-ba09-60b449418ba1" name="Changes" comment="" />
+    <list default="true" id="7c4a37a0-9d9c-4959-ba09-60b449418ba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,23 +50,46 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.FirstTestNGtestcase">
-    <configuration name="FirstTestNGtestcase" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstTestNGtestcase" type="TestNG" nameIsGenerated="true">
       <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FirstTestNGtestcase" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="FirstTestNGtestcase.closeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FirstTestNGtestcase" />
       <option name="METHOD_NAME" value="closeBrowser" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -94,9 +120,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.FirstTestNGtestcase" />
+      <item itemvalue="TestNG.FirstTestNGtestcase.closeBrowser" />
+      <item itemvalue="TestNG.FirstTestNGtestcase.openBrowser" />
+      <item itemvalue="TestNG.FirstTestNGtestcase.registerUser" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstTestNGtestcase" />
         <item itemvalue="TestNG.FirstTestNGtestcase.closeBrowser" />
         <item itemvalue="TestNG.FirstTestNGtestcase.registerUser" />
         <item itemvalue="TestNG.FirstTestNGtestcase.openBrowser" />
