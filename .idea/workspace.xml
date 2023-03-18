@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a37a0-9d9c-4959-ba09-60b449418ba1" name="Changes" comment="" />
+    <list default="true" id="7c4a37a0-9d9c-4959-ba09-60b449418ba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkScript_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstTestNGtestcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstTestNGtestcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FirstTestNGtestcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources/Drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirstTestNGtestcase">
+  <component name="RunManager" selected="TestNG./Users/binjalraval/IdeaProjects/TestNGProject/testng.xml">
     <configuration name="FirstTestNGtestcase" type="TestNG" nameIsGenerated="true">
       <module name="TestNGProject" />
       <shortenClasspath name="NONE" />
@@ -71,14 +82,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestNGtestcase.closeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkScript_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTestNGtestcase" />
-      <option name="METHOD_NAME" value="closeBrowser" />
+      <option name="MAIN_CLASS_NAME" value="HomeworkScript_1" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkScript_1.billingAddress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeworkScript_1" />
+      <option name="METHOD_NAME" value="billingAddress" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
@@ -93,24 +125,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestNGtestcase.openBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkScript_1.selectProduct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTestNGtestcase" />
-      <option name="METHOD_NAME" value="openBrowser" />
+      <option name="MAIN_CLASS_NAME" value="HomeworkScript_1" />
+      <option name="METHOD_NAME" value="selectProduct" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTestNGtestcase.registerUser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/binjalraval/IdeaProjects/TestNGProject/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTestNGtestcase" />
-      <option name="METHOD_NAME" value="registerUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/binjalraval/IdeaProjects/TestNGProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -139,15 +211,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.FirstTestNGtestcase" />
-      <item itemvalue="TestNG.FirstTestNGtestcase.closeBrowser" />
-      <item itemvalue="TestNG.FirstTestNGtestcase.openBrowser" />
-      <item itemvalue="TestNG.FirstTestNGtestcase.registerUser" />
+      <item itemvalue="TestNG.HomeworkScript_1.billingAddress" />
+      <item itemvalue="TestNG.HomeworkScript_1" />
+      <item itemvalue="TestNG.HomeworkScript_1.selectProduct" />
+      <item itemvalue="TestNG./Users/binjalraval/IdeaProjects/TestNGProject/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG./Users/binjalraval/IdeaProjects/TestNGProject/testng.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FirstTestNGtestcase.closeBrowser" />
-        <item itemvalue="TestNG.FirstTestNGtestcase.registerUser" />
-        <item itemvalue="TestNG.FirstTestNGtestcase.openBrowser" />
+        <item itemvalue="TestNG./Users/binjalraval/IdeaProjects/TestNGProject/testng.xml" />
+        <item itemvalue="TestNG.HomeworkScript_1.billingAddress" />
+        <item itemvalue="TestNG.HomeworkScript_1" />
+        <item itemvalue="TestNG.HomeworkScript_1.selectProduct" />
+        <item itemvalue="TestNG./Users/binjalraval/IdeaProjects/TestNGProject/test-output/testng-failed.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -176,8 +252,20 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FirstTestNGtestcase.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TestNGProject$FirstTestNGtestcase.ic" NAME="FirstTestNGtestcase Coverage Results" MODIFIED="1678029279197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestNGProject$FirstTestNGtestcase.ic" NAME="FirstTestNGtestcase Coverage Results" MODIFIED="1678910538128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestNGProject$FirstTestNGtestcase_login.ic" NAME="FirstTestNGtestcase.login Coverage Results" MODIFIED="1678315026535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/TestNGProject$FirstTestNGtestcase_closeBrowser.ic" NAME="FirstTestNGtestcase.closeBrowser Coverage Results" MODIFIED="1678029379768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
